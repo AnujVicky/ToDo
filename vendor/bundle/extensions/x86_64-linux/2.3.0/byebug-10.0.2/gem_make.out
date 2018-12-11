@@ -1,0 +1,19 @@
+current directory: /home/lezwon/Desktop/MyProject/ToDo/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/usr/bin/ruby2.3 -r ./siteconf20181211-22541-usk4e8.rb extconf.rb
+creating Makefile
+
+current directory: /home/lezwon/Desktop/MyProject/ToDo/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/lezwon/Desktop/MyProject/ToDo/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/lezwon/Desktop/MyProject/ToDo/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20181211-22541-nk6vxm/byebug
